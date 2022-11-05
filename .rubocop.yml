@@ -4,6 +4,11 @@ AllCops:
     - "Guardfile"
     - "Rakefile"
     - "node_modules/**/*"
+    - "classroom.rb"
+    - "capitalize_decorator.rb"
+    - "decorator.rb"
+    - "app.rb"
+    - "book.rb"
 
   DisplayCopNames: true
 
