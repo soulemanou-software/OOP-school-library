@@ -3,12 +3,13 @@ class Book
 
   def initialize(title, author)
     @title = title
+
     @author = author
+
     @rentals = []
   end
 
-  def add_rental(person, date)
-    rental = Rental.new(date, self, person)
-   @rentals.push(rental)
+  def add_rental(date, person)
+    Rental.new(date, self, person)
   end
 end
