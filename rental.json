@@ -1,0 +1,38 @@
+[
+  {
+    "date": "2022",
+    "book": {
+      "title": "new",
+      "author": "me\n"
+    },
+    "person": {
+      "id": 395,
+      "name": "Aakash",
+      "age": 34
+    }
+  },
+  {
+    "date": "2022",
+    "book": {
+      "title": "own",
+      "author": "man\n"
+    },
+    "person": {
+      "id": 835,
+      "name": "William",
+      "age": 23
+    }
+  },
+  {
+    "date": "2022",
+    "book": {
+      "title": "new",
+      "author": "me\n"
+    },
+    "person": {
+      "id": 395,
+      "name": "Aakash",
+      "age": 34
+    }
+  }
+]
